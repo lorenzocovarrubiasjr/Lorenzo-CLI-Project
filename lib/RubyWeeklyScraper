@@ -1,4 +1,0 @@
-1. We need a RubyWeeklyScraper class
-2. That class needs to instantiate the the Newsletter for that issue_date
-3. We need to scrape the details of the Newsletter
-4. We need to scrape the individual articles for that newsletter and add them to that instance

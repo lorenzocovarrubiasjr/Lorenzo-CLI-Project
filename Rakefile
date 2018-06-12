@@ -1,7 +1,7 @@
 require_relative './config/enviroment'
 
 def reload!
-    load './lib'
+    load_all './lib'
 end
 
 

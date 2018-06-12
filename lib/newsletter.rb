@@ -16,7 +16,7 @@ def add_article(article)
   if !article.is_a?(Article)
       raise InvalidType, "Must Be An Article"
   else
-  @@article << article
+  @@articles << article
   end
 end
 
